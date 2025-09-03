@@ -10,7 +10,7 @@ This project marks the completion of my **C++ basics + OOP learning phase**, and
 
 ## 🎯 Features
 ✔️ Add, delete, and update clients  
-✔️ User login & management (**with file handling**)  
+✔️ User login & management   
 ✔️ Transactions (deposit, withdraw, transfer, balance inquiry)  
 ✔️ Currency exchange  
 ✔️ Menu-based interface with sub-menus  
@@ -18,19 +18,12 @@ This project marks the completion of my **C++ basics + OOP learning phase**, and
 
 ---
 
-## 🖼️ Screenshots
-![Main Menu](./screenshot.png)  
-*(replace with your actual screenshot file)*  
-
----
-
 ## 🎬 Demo Videos
-- 📽️ **Short demo (27s):** Quick preview of the **main menus** [watch here](OneDriveShortLink)  
-- 📽️ **Full demo (5 mins):** Complete explanation of the **project and its elements** [watch here](OneDriveFullLink)  
+- 📽️ **Full demo (5 mins):** Complete explanation of the **project and its elements**
+  https://medmansedu-my.sharepoint.com/:v:/g/personal/rawdaeweda_std_mans_edu_eg/Ea7N5cOwe3FPhosIaKlI7QcB43MoYdJ2JWg_wuzHAHbw9g?e=b54odX
 
 ---
 
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/BankSystem_Cpp.git
